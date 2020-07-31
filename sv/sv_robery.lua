@@ -8,7 +8,7 @@ AddEvent("OnPackageStart", function()
     -- Add translations
     yrpf.AddI18nKey("fr", "plugin.test.violent_robery", "Violent")
     yrpf.AddI18nKey("fr", "plugin.police.calm_robery", "Calme")
-
+    print("# ol_robery charged | made by d3Ex2 #")
 end)
 
 
